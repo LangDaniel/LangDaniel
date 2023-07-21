@@ -4,7 +4,8 @@ Welcome to my GitHub page
 
 *  I'm a postdoctoral researcher at Helmholtz Munich
 *  Here you can find code to all of my papers (that's why I don't push that often)
-*  just write me if you have questions
+*  There is also code to [read DICOM RTSTRUCT files](https://github.com/LangDaniel/dicom_reader) and [download data](https://github.com/LangDaniel/TCIA_client) from the [TCIA](https://www.cancerimagingarchive.net/)
+*  just [write me](mailto:daniel.lang@tum.de) if you have questions
 
 <!--
 **LangDaniel/LangDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
