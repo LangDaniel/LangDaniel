@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page
 
-*  I'm a postdoctoral researcher at Helmholtz Munich
+*  I'm a postdoctoral researcher at [Helmholtz Munich](https://compai-lab.github.io/)
 *  Here you can find code to all of my papers (that's why I don't push that often)
 *  There is also code to [read DICOM RTSTRUCT files](https://github.com/LangDaniel/dicom_reader) and [download data](https://github.com/LangDaniel/TCIA_client) from the [TCIA](https://www.cancerimagingarchive.net/)
 *  just [write me](mailto:daniel.lang@tum.de) if you have any questions
