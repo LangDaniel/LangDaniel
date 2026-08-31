@@ -4,7 +4,7 @@ Welcome to my GitHub page
 
 *  I'm a senior researcher at [Helmholtz Munich](https://compai-lab.github.io/)
 *  Here you can find the code of all my (first author) papers (after publication, that's why I don't push that frequently)
-*  There is also code to [read DICOM RTSTRUCT files](https://github.com/LangDaniel/dicom_reader) and [download data](https://github.com/LangDaniel/TCIA_client) from the [TCIA](https://www.cancerimagingarchive.net/)
+*  There is also code to [read DICOM RTSTRUCT files](https://github.com/LangDaniel/dicom_reader) and a [minimal REST-API client to download data from the TCIA](https://github.com/LangDaniel/TCIA_client).
 *  Just [write me](mailto:daniel.lang@tum.de) if you have any questions
 
 <!--
