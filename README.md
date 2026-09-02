@@ -8,9 +8,9 @@ I'm interested in how we turn AI into applications that create value in the real
 
 My work spans **self-supervised learning, generative modeling, anomaly detection, and domain / test-time adaptation**, with a focus on making models robust enough for real deployment.
 
-🔭 Currently working on point tracking on video data.  
-🌱 Exploring ROS with turtlesim, Astro JS framework and world models.  
-💬 Open to talk about computer vision, machine learning, and robust AI, or about the move from academia to industry.  
+🔭 Currently working on point tracking on video data.
+🌱 Exploring ROS with turtlesim, Astro JS framework and world models.
+💬 Open to talk about computer vision, machine learning, and robust AI, or about the move from academia to industry.
 
 ## Tech Stack
 
@@ -37,7 +37,8 @@ My work spans **self-supervised learning, generative modeling, anomaly detection
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-B83A22?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D6AA8?style=flat-square&logo=docker&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-4A5D73?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-7A6A12?style=flat-square&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-005A99?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-016F26?style=flat-square&logo=vim&logoColor=white)
