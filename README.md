@@ -17,14 +17,15 @@ My work spans **self-supervised learning, generative modeling, anomaly detection
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-2C5578?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-3C7A1E?style=flat-square&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-003D66?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-A85D00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-3C7A1E?style=flat-square&logo=gnubash&logoColor=white)
 
 **Machine Learning & Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-B23A22?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-BF5400?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-A6820A?style=flat-square&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-3E2A9E?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
