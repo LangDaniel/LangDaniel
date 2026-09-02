@@ -37,13 +37,15 @@ My work spans **self-supervised learning, generative modeling, anomaly detection
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-B83A22?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1D6AA8?style=flat-square&logo=docker&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-4A5D73?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-7A6A12?style=flat-square&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-005A99?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-016F26?style=flat-square&logo=vim&logoColor=white)
 
-## Reach Out
+## Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-m-lang/)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=aboutdotme&logoColor=white)](https://langdaniel.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/daniel-m-lang/)
+- [Website](https://langdaniel.github.io/)
+- [Google Scholar](https://scholar.google.com/citations?user=AV04Hs4AAAAJ)
