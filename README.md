@@ -37,7 +37,6 @@ My work spans **self-supervised learning, generative modeling, anomaly detection
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-B83A22?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1D6AA8?style=flat-square&logo=docker&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-4A5D73?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-7A6A12?style=flat-square&logo=linux&logoColor=white)
