@@ -9,7 +9,7 @@ I'm interested in how we turn AI into applications that create value in the real
 My work spans **self-supervised learning, generative modeling, anomaly detection, and domain / test-time adaptation**, with a focus on making models robust enough for real deployment.
 
 🔭 Currently working on point tracking on video data.  
-🌱 Exploring ROS with turtlesim, the Astro JS framework and World Models.  
+🌱 Exploring the Astro JS framework and World Models (mainly Video JEPA).  
 💬 Open to talk about computer vision, machine learning, and robust AI, or about the move from academia to industry.
 
 ## Tech Stack
